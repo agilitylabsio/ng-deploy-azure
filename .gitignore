@@ -353,6 +353,6 @@ yarn.lock
 **/.DS_Store
 .DS_Store
 
-out/
+# out/
 .e2e-tests/
 coverage/
